@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "Mycustomview.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <customdelegate>
 
 
 @end
